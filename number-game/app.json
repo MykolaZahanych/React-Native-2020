@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meet-react-native",
-    "slug": "meet-react-native",
+    "name": "number-game",
+    "slug": "number-game",
     "platforms": [
       "ios",
       "android",
